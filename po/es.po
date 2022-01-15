@@ -52,7 +52,7 @@ msgstr "[Panel Activo: %1$s]"
 
 #: src/labels.h:54
 msgid "[q]uit GoAccess"
-msgstr "[q]Salir GoAccess"
+msgstr "[q]Salir de GoAccess"
 
 #: src/labels.h:55
 msgid "[?] Help [Enter] Exp. Panel"
@@ -64,15 +64,15 @@ msgstr "Panel de Control"
 
 #: src/labels.h:57
 msgid "Dashboard - Overall Analyzed Requests"
-msgstr "Panel de Control - Peticiones Analizadas En General"
+msgstr "Panel de Control - Peticiones analizadas en general"
 
 #: src/labels.h:58
 msgid "Overall Analyzed Requests"
-msgstr "Peticiones Analizadas en General"
+msgstr "Peticiones analizadas en general"
 
 #: src/labels.h:60 src/labels.h:81
 msgid "Tx. Amount"
-msgstr ""
+msgstr "Cantidad tasa"
 
 #: src/labels.h:61
 msgid "Date/Time"
@@ -88,7 +88,7 @@ msgstr "Peticiones Fallidas"
 
 #: src/labels.h:64
 msgid "Log Parsing Time"
-msgstr ""
+msgstr "Registro de tiempo de análisis"
 
 #: src/labels.h:65
 msgid "Log Size"
@@ -129,7 +129,7 @@ msgstr "Peticiones Validas"
 
 #: src/labels.h:76
 msgid "Hits"
-msgstr "Hits"
+msgstr "Impactos"
 
 #: src/labels.h:77
 msgid "h%"
@@ -161,7 +161,7 @@ msgstr "Max. T.S."
 
 #: src/labels.h:85
 msgid "Method"
-msgstr "Metodo"
+msgstr "Método"
 
 #: src/labels.h:86
 msgid "Mtd"
@@ -181,11 +181,11 @@ msgstr "Ciudad"
 
 #: src/labels.h:90
 msgid "Country"
-msgstr "Pais"
+msgstr "País"
 
 #: src/labels.h:91
 msgid "Hostname"
-msgstr "Hostname"
+msgstr "Nombre de equipo"
 
 #: src/labels.h:92
 msgid "Data"
@@ -193,19 +193,19 @@ msgstr "Datos"
 
 #: src/labels.h:94
 msgid "Hits/Visitors"
-msgstr "Hits/Visitas"
+msgstr "Impactos/Visitas"
 
 #: src/labels.h:98
 msgid "Unique visitors per day"
-msgstr "Visitantes unicos por dia"
+msgstr "Visitantes unicos por día"
 
 #: src/labels.h:100
 msgid "Unique visitors per day - Including spiders"
-msgstr "Visitantes unicos por dia - Incluyendo M.Busqueda"
+msgstr "Visitantes unicos por día - Incluyendo M.Busqueda"
 
 #: src/labels.h:102
 msgid "Hits having the same IP, date and agent are a unique visit."
-msgstr "Hits con el mismo IP, fecha y agente son unica visita"
+msgstr "Hits con el mismo IP, fecha y agente son visita única"
 
 #: src/labels.h:107
 msgid "Requested Files (URLs)"
@@ -213,7 +213,7 @@ msgstr "Archivos Requeridos (URLs)"
 
 #: src/labels.h:109
 msgid "Top requests sorted by hits [, avgts, cumts, maxts, mthd, proto]"
-msgstr "Peticiones Top ordenadas por hits [, avgts, cumts, maxts, mthd, proto]"
+msgstr "Peticiones Top ordenadas por impactos [, avgts, cumts, maxts, mthd, proto]"
 
 #: src/labels.h:111
 msgid "Requests"
@@ -221,12 +221,12 @@ msgstr "Peticiones"
 
 #: src/labels.h:114 src/labels.h:118
 msgid "Static Requests"
-msgstr "Peticiones Estaticas"
+msgstr "Peticiones Estáticas"
 
 #: src/labels.h:116
 msgid "Top static requests sorted by hits [, avgts, cumts, maxts, mthd, proto]"
 msgstr ""
-"Peticiones estaticas top ordenadas por hits [, avgts, cumts, maxts, mthd, "
+"Peticiones estáticas top ordenadas por impactos [, avgts, cumts, maxts, mthd, "
 "proto]"
 
 #: src/labels.h:121
@@ -247,7 +247,7 @@ msgstr "Hosts Virtuales"
 
 #: src/labels.h:130 src/labels.h:137 src/labels.h:144
 msgid "Data sorted by hits [, avgts, cumts, maxts]"
-msgstr "Datos ordenados por hits [, avgts, cumts, maxts]"
+msgstr "Datos ordenados por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:135
 msgid "Remote User (HTTP authentication)"
@@ -259,7 +259,7 @@ msgstr "Usuario Remoto"
 
 #: src/labels.h:142
 msgid "The cache status of the object served"
-msgstr ""
+msgstr "El estado de la caché del objeto servido"
 
 #: src/labels.h:146
 msgid "Cache Status"
@@ -272,7 +272,7 @@ msgstr "URLs no encontradas (404)"
 #: src/labels.h:151
 msgid "Top not found URLs sorted by hits [, avgts, cumts, maxts, mthd, proto]"
 msgstr ""
-"URLs no encontradas top ordenadas por hits [, avgts, cumts, maxts, mthd, "
+"URLs no encontradas top ordenadas por impactos [, avgts, cumts, maxts, mthd, "
 "proto]"
 
 #: src/labels.h:156
@@ -281,7 +281,7 @@ msgstr "Hosts e IPs de los Visitantes"
 
 #: src/labels.h:158
 msgid "Top visitor hosts sorted by hits [, avgts, cumts, maxts]"
-msgstr "Hosts de visitante top ordenado por hits [, avgts, cumts, maxts]"
+msgstr "Hosts de visitante top ordenado por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:160
 msgid "Hosts"
@@ -293,7 +293,7 @@ msgstr "Sistemas Operativos"
 
 #: src/labels.h:165
 msgid "Top Operating Systems sorted by hits [, avgts, cumts, maxts]"
-msgstr "Sistemas Operativos top ordenados por hits [, avgts, cumts, maxts]"
+msgstr "Sistemas Operativos top ordenados por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:167
 msgid "OS"
@@ -305,7 +305,7 @@ msgstr "Navegadores"
 
 #: src/labels.h:172
 msgid "Top Browsers sorted by hits [, avgts, cumts, maxts]"
-msgstr "Navegadores top ordenados por hits [, avgts, cumts, maxts]"
+msgstr "Navegadores top ordenados por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:177
 msgid "Referrers URLs"
@@ -313,7 +313,7 @@ msgstr "URLs Referidos"
 
 #: src/labels.h:179
 msgid "Top Requested Referrers sorted by hits [, avgts, cumts, maxts]"
-msgstr "Peticiones top de referidos ordenadas por hits [, avgts, cumts, maxts]"
+msgstr "Peticiones top de referidos ordenadas por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:184 src/labels.h:188
 msgid "Referring Sites"
@@ -321,7 +321,7 @@ msgstr "Sitios Referidos"
 
 #: src/labels.h:186
 msgid "Top Referring Sites sorted by hits [, avgts, cumts, maxts]"
-msgstr "Sitios Referidos top ordenados por hits [, avgts, cumts, maxts]"
+msgstr "Sitios Referidos top ordenados por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:191
 msgid "Keyphrases from Google's search engine"
@@ -329,7 +329,7 @@ msgstr "Frases de busqueda de motor de busqueda Google"
 
 #: src/labels.h:193
 msgid "Top Keyphrases sorted by hits [, avgts, cumts, maxts]"
-msgstr "Frases de busqueda top ordenadas por hits [, avgts, cumts, maxts]"
+msgstr "Frases de búsqueda top ordenadas por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:195
 msgid "Keyphrases"
@@ -337,11 +337,11 @@ msgstr "Frases Clave"
 
 #: src/labels.h:198 src/labels.h:202
 msgid "Geo Location"
-msgstr "Geo Localizacion"
+msgstr "Geo Localización"
 
 #: src/labels.h:200
 msgid "Continent > Country sorted by unique hits [, avgts, cumts, maxts]"
-msgstr "Continente > Pais ordenado por hits unicos [, avgts, cumts, maxts]"
+msgstr "Continente > País ordenado por impactos únicos [, avgts, cumts, maxts]"
 
 #: src/labels.h:205
 msgid "HTTP Status Codes"
@@ -349,7 +349,7 @@ msgstr "Codigos de Estado HTTP"
 
 #: src/labels.h:207
 msgid "Top HTTP Status Codes sorted by hits [, avgts, cumts, maxts]"
-msgstr "Codigos de Estado HTTP top ordenados por hits [, avgts, cumts, maxts]"
+msgstr "Codigos de Estado HTTP top ordenados por impactos [, avgts, cumts, maxts]"
 
 #: src/labels.h:209
 msgid "Status Codes"
@@ -357,31 +357,31 @@ msgstr "Codigos de Estado"
 
 #: src/labels.h:212 src/labels.h:216
 msgid "MIME Types"
-msgstr ""
+msgstr "Tipos MIME"
 
 #: src/labels.h:214
 msgid "File types shipped out"
-msgstr ""
+msgstr "Tipos de archivos enviados"
 
 #: src/labels.h:219
 msgid "Encryption settings"
-msgstr ""
+msgstr "Configuración del cifrado"
 
 #: src/labels.h:221
 msgid "TLS version and picked algorithm"
-msgstr ""
+msgstr "Versión de TLS y algoritmo elegido"
 
 #: src/labels.h:223
 msgid "TLS Settings"
-msgstr ""
+msgstr "Configuración de TLS"
 
 #: src/labels.h:227
 msgid "[ ] case sensitive"
-msgstr "[ ] distinguir mayusculas"
+msgstr "[ ] distinguir mayúsculas"
 
 #: src/labels.h:229
 msgid "[x] case sensitive"
-msgstr "[x] distinguir mayusculas"
+msgstr "[x] distinguir mayúsculas"
 
 #: src/labels.h:231
 msgid "Regex allowed - ^g to cancel - TAB switch case"
@@ -389,11 +389,11 @@ msgstr "Permitido Regex - ^g para cancelar - TAB cambiar case"
 
 #: src/labels.h:233
 msgid "Find pattern in all views"
-msgstr "Encontrar patron en todas las vistas"
+msgstr "Encontrar patrón en todas las vistas"
 
 #: src/labels.h:237
 msgid "Log Format Configuration"
-msgstr "Configuracion de Formato de Log"
+msgstr "Configuracion de formato de Log"
 
 #: src/labels.h:239
 msgid "[SPACE] to toggle - [ENTER] to proceed - [q] to quit"
@@ -413,7 +413,7 @@ msgstr "Formato de Hora - [t] para agregar/editar formato"
 
 #: src/labels.h:247 src/labels.h:251
 msgid "[UP/DOWN] to scroll - [q] to close window"
-msgstr "[ARRIBA/ABAJO] para scrollear - [q] para cerrar ventana"
+msgstr "[ARRIBA/ABAJO] para desplazarse - [q] para cerrar ventana"
 
 #: src/labels.h:253
 #, c-format
@@ -426,7 +426,7 @@ msgstr "Configuracion de Esquema"
 
 #: src/labels.h:259
 msgid "[ENTER] to use scheme - [q]uit"
-msgstr "[ENTER] para usar esquema - [q]Salir"
+msgstr "[ENTER] para usar esquema - [q] Salir"
 
 #: src/labels.h:263
 msgid "Sort active module by"
@@ -434,19 +434,19 @@ msgstr "Ordenar modulo activo por"
 
 #: src/labels.h:265
 msgid "[ENTER] select - [TAB] sort - [q]uit"
-msgstr "[ENTER] seleccionar - [TAB] ordenar - [q]Salir"
+msgstr "[ENTER] seleccionar - [TAB] ordenar - [q] Salir"
 
 #: src/labels.h:269
 msgid "GoAccess Quick Help"
-msgstr "Ayuda Rapida de GoAccess"
+msgstr "Ayuda rápida de GoAccess"
 
 #: src/labels.h:271
 msgid "[UP/DOWN] to scroll - [q] to quit"
-msgstr "[ARRIBA/ABAJO] para scrollear - [q] para salir"
+msgstr "[ARRIBA/ABAJO] para desplazarse - [q] para salir"
 
 #: src/labels.h:275
 msgid "In-Memory with On-Disk Persistent Storage."
-msgstr ""
+msgstr "En memoria con almacenamiento persistente en disco"
 
 #: src/labels.h:279
 msgid "Format Errors - Verify your log/date/time format"
@@ -454,19 +454,19 @@ msgstr "Errores de Formato - Verifique su formato de log/fecha/hora"
 
 #: src/labels.h:281
 msgid "No date format was found on your conf file."
-msgstr "No se encontro formato de fecha en su archivo de configuracion"
+msgstr "No se encontro formato de fecha en su archivo de configuración"
 
 #: src/labels.h:283
 msgid "No log format was found on your conf file."
-msgstr "No se encontro formato de log en su archivo de configuracion"
+msgstr "No se encontro formato de log en su archivo de configuración"
 
 #: src/labels.h:285
 msgid "No time format was found on your conf file."
-msgstr "No se encontro formato de hora en su archivo de configuracion"
+msgstr "No se encontro formato de hora en su archivo de configuración"
 
 #: src/labels.h:287
 msgid "No default config file found."
-msgstr "No se encontro archivo de configuracion por defecto."
+msgstr "No se encontro archivo de configuración por defecto."
 
 #: src/labels.h:289
 msgid "You may specify one with"
@@ -483,7 +483,7 @@ msgstr "Analizadas %1$d lineas"
 
 #: src/labels.h:295
 msgid "Please report it by opening an issue on GitHub"
-msgstr "Por favor avise abriendo un issue en GitHub"
+msgstr "Por favor avise abriendo un asunto en GitHub"
 
 #: src/labels.h:297
 msgid "Select a time format."
@@ -504,15 +504,15 @@ msgstr "'%1$s' panel esta desactivado"
 
 #: src/labels.h:305
 msgid "No input data was provided nor there's data to restore."
-msgstr ""
+msgstr "No se proporcionaron datos de entrada ni hay datos para restaurar"
 
 #: src/labels.h:309
 msgid "For more details visit"
-msgstr "Para mas detalles visite"
+msgstr "Para más detalles visite"
 
 #: src/labels.h:311
 msgid "Last Updated"
-msgstr "Ultima actualizacion"
+msgstr "Última actualización"
 
 #: src/labels.h:313
 msgid "WebSocket server ready to accept new client connections"
@@ -524,15 +524,15 @@ msgstr "Las siguientes opciones pueden ser ademas suplirse en el comando"
 
 #: src/labels.h:318
 msgid "Examples can be found by running"
-msgstr "Ejemplos pueden encontrarse ejecutando"
+msgstr "Se pueden encontrar ejemplos ejecutando"
 
 #: src/labels.h:321
 msgid "Server Statistics"
-msgstr "Estadisticas de Servidor"
+msgstr "Estadísticas de Servidor"
 
 #: src/labels.h:323
 msgid "Theme"
-msgstr "Skin"
+msgstr "Tema"
 
 #: src/labels.h:325
 msgid "Dark Gray"
@@ -540,7 +540,7 @@ msgstr "Gris Oscuro"
 
 #: src/labels.h:327
 msgid "Bright"
-msgstr "Clara"
+msgstr "Claro"
 
 #: src/labels.h:329
 msgid "Dark Blue"
@@ -557,7 +557,7 @@ msgstr "Paneles"
 
 #: src/labels.h:335
 msgid "Items per Page"
-msgstr "Items por pagina"
+msgstr "Elementos por pagina"
 
 #: src/labels.h:337
 msgid "Tables"
@@ -569,7 +569,7 @@ msgstr "Mostrar Tablas"
 
 #: src/labels.h:341
 msgid "Auto-Hide on Small Devices"
-msgstr "Auto-ocultar en Pequeños Dispositivos"
+msgstr "Auto-ocultar en dispositivos móviles"
 
 #: src/labels.h:343
 msgid "Automatically hide tables on small screen devices"
@@ -589,7 +589,7 @@ msgstr "Vertical"
 
 #: src/labels.h:351
 msgid "WideScreen"
-msgstr "Panorama"
+msgstr "Pantalla ancha"
 
 #: src/labels.h:353
 msgid "File Options"
@@ -617,15 +617,15 @@ msgstr "Primero"
 
 #: src/labels.h:365
 msgid "Last"
-msgstr "Ultimo"
+msgstr "Último"
 
 #: src/labels.h:367
 msgid "Chart Options"
-msgstr "Opciones de Grafico"
+msgstr "Opciones de Gráfico"
 
 #: src/labels.h:369
 msgid "Chart"
-msgstr "Grafico"
+msgstr "Gráfico"
 
 #: src/labels.h:371
 msgid "Type"
@@ -633,11 +633,11 @@ msgstr "Tipo"
 
 #: src/labels.h:373
 msgid "Area Spline"
-msgstr "Area Ranura"
+msgstr "Spline de área"
 
 #: src/labels.h:375
 msgid "Bar"
-msgstr "Bar"
+msgstr "Barras"
 
 #: src/labels.h:377
 msgid "Plot Metric"
@@ -657,7 +657,7 @@ msgstr "2xx Exito"
 
 #: src/labels.h:387
 msgid "3xx Redirection"
-msgstr "3xx Redireccion"
+msgstr "3xx Redirección"
 
 #: src/labels.h:389
 msgid "4xx Client Errors"
@@ -669,7 +669,7 @@ msgstr "5xx Errores de Servidor"
 
 #: src/labels.h:394
 msgid "100 - Continue: Server received the initial part of the request"
-msgstr "100 - Continuar: Servidor recibio la parte inicial de la peticion"
+msgstr "100 - Continuar: Servidor recibio la parte inicial de la petición"
 
 #: src/labels.h:396
 msgid "101 - Switching Protocols: Client asked to switch protocols"
@@ -677,7 +677,7 @@ msgstr "101 - Cambiando Protocolos: Cliente pidio cambiar protocolos"
 
 #: src/labels.h:398
 msgid "200 - OK: The request sent by the client was successful"
-msgstr "200 - OK: La peticion enviada por el cliente fue exitosa"
+msgstr "200 - OK: Solicitud enviada por el cliente con éxito"
 
 #: src/labels.h:400
 msgid "201 - Created: The request has been fulfilled and created"
@@ -693,7 +693,7 @@ msgstr "203 - No-autoritario Informativo: Respuesta de una 3er. parte"
 
 #: src/labels.h:406
 msgid "204 - No Content: Request did not return any content"
-msgstr "204 - Sin Contenido: Peticion no retorno ningun contenido"
+msgstr "204 - Sin Contenido: Petición no devolvió ningun contenido"
 
 #: src/labels.h:408
 msgid "205 - Reset Content: Server asked the client to reset the document"
@@ -702,7 +702,7 @@ msgstr ""
 
 #: src/labels.h:410
 msgid "206 - Partial Content: The partial GET has been successful"
-msgstr "206 - Contenido Parcial: el GET parcial fue exitoso"
+msgstr "206 - Contenido Parcial: el GET parcial fue correcto"
 
 #: src/labels.h:412
 msgid "207 - Multi-Status: WebDAV; RFC 4918"
@@ -714,11 +714,11 @@ msgstr "208 - Ya Reportado: WebDAV; RFC 5842"
 
 #: src/labels.h:416
 msgid "300 - Multiple Choices: Multiple options for the resource"
-msgstr "300 - Multiples Opciones: Multiples opciones para el recurso"
+msgstr "300 - Multiples Opciones: Múltiples opciones para el recurso"
 
 #: src/labels.h:418
 msgid "301 - Moved Permanently: Resource has permanently moved"
-msgstr "301 - Movido Permanente: Recurso ha sido permanentemente movido"
+msgstr "301 - Movido Permanente: Recurso ha sido movido permanentemente"
 
 #: src/labels.h:420
 msgid "302 - Moved Temporarily (redirect)"
@@ -751,7 +751,7 @@ msgstr "400 - Peticion Mala: La sintaxis de la peticion es invalida"
 
 #: src/labels.h:434
 msgid "401 - Unauthorized: Request needs user authentication"
-msgstr "401 - Sin Autorizacion: Peticion necesita autenticacion de usuario"
+msgstr "401 - Sin Autorizacion: Petición necesita autenticación de usuario"
 
 #: src/labels.h:436
 msgid "402 - Payment Required"
@@ -775,7 +775,7 @@ msgstr "406 - No Aceptable"
 
 #: src/labels.h:446
 msgid "407 - Proxy Authentication Required"
-msgstr "407 - Autenticacion de Proxy Requerida"
+msgstr "407 - Autenticacion de Proxy requerida"
 
 #: src/labels.h:448
 msgid "408 - Request Timeout: Server timed out waiting for the request"
@@ -791,7 +791,7 @@ msgstr "410 - Fue: Recurso requerido no esta mas disponible"
 
 #: src/labels.h:454
 msgid "411 - Length Required: Invalid Content-Length"
-msgstr "411 - Longitud Requerida: Content-Length Invalido"
+msgstr "411 - Longitud Requerida: Longitud de contenido no válida"
 
 #: src/labels.h:456
 msgid "412 - Precondition Failed: Server does not meet preconditions"
@@ -799,11 +799,11 @@ msgstr "412 - Precondicion Fallida: Servidor no cumple precondiciones"
 
 #: src/labels.h:458
 msgid "413 - Payload Too Large"
-msgstr "413 - Carga Util Demasiado larga"
+msgstr "413 - Carga útil demasiado grande"
 
 #: src/labels.h:460
 msgid "414 - Request-URI Too Long"
-msgstr "414 - Request-URI demasiado larga"
+msgstr "414 - Request-URI demasiado grande"
 
 #: src/labels.h:462
 msgid "415 - Unsupported Media Type: Media type is not supported"
@@ -824,11 +824,11 @@ msgstr "418 - Soy una tetera"
 
 #: src/labels.h:470
 msgid "421 - Misdirected Request"
-msgstr "421 - Peticion mal dirigida"
+msgstr "421 - Petición mal dirigida"
 
 #: src/labels.h:472
 msgid "422 - Unprocessable Entity due to semantic errors: WebDAV"
-msgstr "422 - Peticion fue imposible seguirla debido a errores semánticos"
+msgstr "422 - Entidad no procesable debido a errores semánticos: WebDAV"
 
 #: src/labels.h:474
 msgid "423 - The resource that is being accessed is locked"
@@ -858,7 +858,7 @@ msgstr "494 - (Nginx) Cabecera de Peticion demasiada larga"
 
 #: src/labels.h:486
 msgid "451 - Unavailable For Legal Reasons"
-msgstr ""
+msgstr "451 - No disponible por razones legales"
 
 #: src/labels.h:488
 msgid "444 - (Nginx) Connection closed without sending any headers"
@@ -866,7 +866,7 @@ msgstr "444 - (Nginx) Conexion cerrada sin enviar cabeceras"
 
 #: src/labels.h:490
 msgid "494 - (Nginx) Request Header Too Large"
-msgstr "494 - (Nginx) Cabecera de Peticion demasiada larga"
+msgstr "494 - (Nginx) Cabecera de Peticion demasiado grande"
 
 #: src/labels.h:492
 msgid "495 - (Nginx) SSL client certificate error"
@@ -882,7 +882,7 @@ msgstr "497 - (Nginx) Peticion HTTP enviada a puerto HTTPS"
 
 #: src/labels.h:498
 msgid "499 - (Nginx) Connection closed by client while processing request"
-msgstr "499 - (Nginx) Conexion cerrada por cliente mientras procesaba peticion"
+msgstr "499 - (Nginx) Conexion cerrada por cliente mientras procesaba petición"
 
 #: src/labels.h:500
 msgid "500 - Internal Server Error"
@@ -912,7 +912,7 @@ msgstr "505 - Version HTTP no soportada"
 
 #: src/labels.h:512
 msgid "520 - CloudFlare - Web server is returning an unknown error"
-msgstr "520 - CloudFlare - El servidor esta retornando un error desconocido"
+msgstr "520 - CloudFlare - El servidor esta devolviendo un error desconocido"
 
 #: src/labels.h:514
 msgid "521 - CloudFlare - Web server is down"
@@ -920,15 +920,15 @@ msgstr "521 - CloudFlare - Servidor Web caido"
 
 #: src/labels.h:516
 msgid "522 - CloudFlare - Connection timed out"
-msgstr "522 - CloudFlare - Tiempo de espera de conexion agotado "
+msgstr "522 - CloudFlare - Tiempo de espera de conexión agotado "
 
 #: src/labels.h:518
 msgid "523 - CloudFlare - Origin is unreachable"
-msgstr "523 - CloudFlare - Origen es inaccesible"
+msgstr "523 - CloudFlare - Origen inaccesible"
 
 #: src/labels.h:520
 msgid "524 - CloudFlare - A timeout occurred"
-msgstr "524 - CloudFlare - Ocurrio cese de tiempo"
+msgstr "524 - CloudFlare - Se ha producido un error de tiempo de espera"
 
 #~ msgid "Init. Proc. Time"
 #~ msgstr "Hora Inicio Proc."
